@@ -1,7 +1,7 @@
-# Group-6 Auto Shop Application
+# Auto Parts Shop Application
 
 ## Overview
-The Auto Shop Application is designed to manage and track orders for an auto shop. It allows users to perform various tasks based on their roles: Admin, Seller, or Customer. Key functionalities include managing car parts inventory, processing orders, and maintaining customer and vehicle information.
+The Auto Parts Shop Application is designed to manage and track orders for an auto shop. It allows users to perform various tasks based on their roles: Admin, Seller, or Customer. Key functionalities include managing car parts inventory, processing orders, and maintaining customer and vehicle information.
 
 ## Technologies Used
 - **Database**: PostgreSQL hosted on Amazon RDS.
